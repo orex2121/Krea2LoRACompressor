@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Models and generated versions
+*.safetensors
+*_stripped_*
+
+# Local/editor files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log
