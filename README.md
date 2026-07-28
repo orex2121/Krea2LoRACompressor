@@ -116,17 +116,17 @@ All images were produced under comparable generation conditions and show the ori
 
 Original LoRA: **1580 MB**. Compressed version: **784 MB**.
 
-<img src="comparisons/50%20percent%20-%20Lora%20Compressor.png" alt="Comparison of the original Krea2 LoRA and the 50% compressed version" width="100%">
+<img src="comparisons/comparison_50_percent.jpg" alt="Comparison of the original Krea2 LoRA and the 50% compressed version" width="100%">
 
 ### 75% — Compact
 
 Original LoRA: **1580 MB**. Compressed version: **412 MB**.
 
-<img src="comparisons/75%20percent%20-%20Lora%20Compressor.png" alt="Comparison of the original Krea2 LoRA and the 75% compressed version" width="100%">
+<img src="comparisons/comparison_75_percent.jpg" alt="Comparison of the original Krea2 LoRA and the 75% compressed version" width="100%">
 
 ### Maximum compression — 95%
 
-<img src="comparisons/95%20percent%20-%20Lora%20Compressor.png" alt="Comparison of the original Krea2 LoRA and the maximum-compression version" width="100%">
+<img src="comparisons/comparison_95_percent.jpg" alt="Comparison of the original Krea2 LoRA and the maximum-compression version" width="100%">
 
 > The `100%` label embedded in this historical image refers to the previous name of the maximum preset. In the current application, the maximum level has been changed to **95%** and preserves one transformer block.
 
@@ -343,17 +343,17 @@ RUN.bat
 
 Исходная LoRA **1580 MB** и версия **784 MB**.
 
-<img src="comparisons/50%20percent%20-%20Lora%20Compressor.png" alt="Сравнение исходной Krea2 LoRA и версии со сжатием 50%" width="100%">
+<img src="comparisons/comparison_50_percent.jpg" alt="Сравнение исходной Krea2 LoRA и версии со сжатием 50%" width="100%">
 
 ### 75% — Compact
 
 Исходная LoRA **1580 MB** и версия **412 MB**.
 
-<img src="comparisons/75%20percent%20-%20Lora%20Compressor.png" alt="Сравнение исходной Krea2 LoRA и версии со сжатием 75%" width="100%">
+<img src="comparisons/comparison_75_percent.jpg" alt="Сравнение исходной Krea2 LoRA и версии со сжатием 75%" width="100%">
 
 ### Максимальное сжатие — 95%
 
-<img src="comparisons/95%20percent%20-%20Lora%20Compressor.png" alt="Сравнение исходной Krea2 LoRA и версии максимального сжатия" width="100%">
+<img src="comparisons/comparison_95_percent.jpg" alt="Сравнение исходной Krea2 LoRA и версии максимального сжатия" width="100%">
 
 > Встроенная подпись `100%` на этом историческом изображении относится к предыдущему названию максимального пресета. В актуальной версии приложения максимальный уровень заменён на **95%** и сохраняет один transformer-блок.
 
